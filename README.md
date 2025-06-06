@@ -1,4 +1,4 @@
-#thematic stand
+# thematic stand
 
 this is a stand created by 3 people @cocoadimo , @punchingfella , @zowmm / me
 
